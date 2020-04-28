@@ -16,7 +16,7 @@ namespace OOPagenda
         public List<Persoana> Participanti;
         public string Info_Activitate()
         {
-            return $"{nume}-{descriere}.Inceput:{dataInceput.ToString()}. Sfarsit:{dataSfarsit.ToString()}.";
+            return $"Index:{Liste.Activitati.IndexOf(this)}  Activitate:{nume}, {descriere} ce începe la: {dataInceput.ToString()} si se termină la: {dataSfarsit.ToString()}.";
         }
     }
 }

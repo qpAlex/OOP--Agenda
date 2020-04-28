@@ -10,5 +10,10 @@ namespace OOPagenda
     {
         public List<Activitate> activitati = new List<Activitate>();
         public Persoana owner;
+        public string InfoAgenda()
+        {
+            return $"Aceasta este agenda lui {owner}.";
+        }
+
     }
 }
