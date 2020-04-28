@@ -1,0 +1,7 @@
+C:\Users\biscu\source\repos\OOPagenda\OOPagenda\bin\Debug\OOPagenda.exe.config
+C:\Users\biscu\source\repos\OOPagenda\OOPagenda\bin\Debug\OOPagenda.exe
+C:\Users\biscu\source\repos\OOPagenda\OOPagenda\bin\Debug\OOPagenda.pdb
+C:\Users\biscu\source\repos\OOPagenda\OOPagenda\obj\Debug\OOPagenda.csprojAssemblyReference.cache
+C:\Users\biscu\source\repos\OOPagenda\OOPagenda\obj\Debug\OOPagenda.csproj.CoreCompileInputs.cache
+C:\Users\biscu\source\repos\OOPagenda\OOPagenda\obj\Debug\OOPagenda.exe
+C:\Users\biscu\source\repos\OOPagenda\OOPagenda\obj\Debug\OOPagenda.pdb

@@ -8,8 +8,7 @@ namespace OOPagenda
 {
     class Agenda
     {
-        List<Activitate> activitati = new List<Activitate>();
+        public List<Activitate> activitati = new List<Activitate>();
         public Persoana owner;
-
     }
 }
